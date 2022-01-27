@@ -1,5 +1,4 @@
 import {Component} from "react";
-import fond from "../../assets/fondbleu.jpg";
 import '../../styles/Style.css'
 
 export default class Contact extends Component {
@@ -30,9 +29,9 @@ export default class Contact extends Component {
                             <div className="socials">
                                 <ul>
 
-                                    <li><a href="https://gitlab.com/dashboard/projects" target="_blank"><span
-                                        className="ico-circle"><i
-                                        className="fa fa-gitlab"/></span></a></li>
+                                    {/*<li><a href="https://gitlab.com/dashboard/projects" target="_blank"><span*/}
+                                    {/*    className="ico-circle"><i*/}
+                                    {/*    className="fa fa-gitlab"/></span></a></li>*/}
                                     <li><a href="https://github.com/DjibrilNaji" target="_blank"><span
                                         className="ico-circle"><i
                                         className="fa fa-github"/></span></a></li>
