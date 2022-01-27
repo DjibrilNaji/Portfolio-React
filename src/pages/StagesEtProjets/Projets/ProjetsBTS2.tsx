@@ -31,7 +31,7 @@ export default class projetsBTS2 extends Component {
                      nomSur={"Otelo sur Frebourg.es"}
                      lienSujet={"https://frebourg.es/?s=otelo"}
                      lienGit={"http://oteloprojet.herokuapp.com/accueil"}
-                     langage={"Warcraft utilise SQL"}/>
+                     langage={"Otelo utilise PHP Laravel et Chatbot"}/>
 
             <Projets img={require("../Projets/projet/who.png")}
                      style={{width: "150px", height: "200px"}}
