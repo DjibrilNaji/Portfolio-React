@@ -60,7 +60,7 @@ export default class CertifPasser extends Component {
                             <div className="post-box">
                                 <div className="post-thumb">
                                     <p><img src={require("../img/certif/secnum.JPG")} className="img-fluid" alt=""
-                                            style={{width: "1000px", height: "600px"}}/></p>
+                                            style={{width: "950px", height: "550px"}}/></p>
                                 </div>
                                 <div className="article-content">
                                     <p>
